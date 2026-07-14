@@ -190,6 +190,15 @@ The application handles:
 - argparse
 - logging
 
+## Architecture
+
+The application is organized into separate modules:
+
+- **client.py** – Creates and configures the Binance API client.
+- **orders.py** – Contains the logic for placing MARKET and LIMIT orders.
+- **validators.py** – Validates user input before sending requests.
+- **logging_config.py** – Configures logging for console and file output.
+- **cli.py** – Command-line entry point that processes user input and displays results.
 ---
 
 ## Assumptions
