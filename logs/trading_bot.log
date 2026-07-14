@@ -1,0 +1,34 @@
+2026-07-14 14:28:23,106 | INFO | Logger is working!
+2026-07-14 14:28:23,106 | ERROR | This is a test error.
+2026-07-14 14:28:48,160 | INFO | Logger is working!
+2026-07-14 14:28:48,160 | ERROR | This is a test error.
+2026-07-14 14:39:48,610 | INFO | Connecting to Binance Futures Testnet...
+2026-07-14 14:39:48,934 | INFO | Client created successfully.
+2026-07-14 14:48:19,317 | INFO | Connecting to Binance Futures Testnet...
+2026-07-14 14:48:19,546 | INFO | Client created successfully.
+2026-07-14 14:48:19,546 | INFO | Sending MARKET order | Symbol=BTCUSDT Side=BUY Qty=0.001
+2026-07-14 14:48:19,781 | ERROR | Binance API Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-07-14 14:52:46,842 | INFO | Connecting to Binance Futures Testnet...
+2026-07-14 14:52:47,204 | INFO | Client created successfully.
+2026-07-14 14:52:47,204 | INFO | Sending MARKET order | Symbol=BTCUSDT Side=BUY Qty=0.001
+2026-07-14 14:52:47,531 | INFO | Order placed successfully: {'orderId': 21638812643, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ8b2ecc82f7edf91e1f538e', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1784020967075}
+2026-07-14 14:56:37,920 | INFO | Connecting to Binance Futures Testnet...
+2026-07-14 14:56:38,282 | INFO | Client created successfully.
+2026-07-14 14:56:38,283 | INFO | Sending LIMIT order | Symbol=BTCUSDT Side=BUY Qty=0.001 Price=50000
+2026-07-14 14:56:38,693 | INFO | Limit Order placed successfully: {'orderId': 21639508337, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ41471c895e80335ad005a', 'price': '50000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1784021198156}
+2026-07-14 15:02:16,802 | INFO | Connecting to Binance Futures Testnet...
+2026-07-14 15:02:17,089 | INFO | Client created successfully.
+2026-07-14 15:02:17,090 | INFO | Sending MARKET order | Symbol=BTCUSDT Side=BUY Qty=0.001
+2026-07-14 15:02:17,632 | INFO | Market Order placed successfully: {'orderId': 21640515811, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ2f7611d5131d457b03a95d', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1784021537155}
+2026-07-14 15:02:26,608 | INFO | Connecting to Binance Futures Testnet...
+2026-07-14 15:02:27,257 | INFO | Client created successfully.
+2026-07-14 15:02:27,258 | INFO | Sending LIMIT order | Symbol=BTCUSDT Side=BUY Qty=0.001 Price=50000.0
+2026-07-14 15:02:27,577 | INFO | Limit Order placed successfully: {'orderId': 21640542454, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ9214b533adca5f508df9c1', 'price': '50000.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'LIMIT', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'LIMIT', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1784021547083}
+2026-07-14 15:06:58,050 | INFO | Connecting to Binance Futures Testnet...
+2026-07-14 15:06:58,363 | INFO | Client created successfully.
+2026-07-14 15:06:58,364 | INFO | Sending MARKET order | Symbol=BTCUSDT Side=BUY Qty=0.001
+2026-07-14 15:06:58,818 | INFO | Market Order placed successfully: {'orderId': 21641352796, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJa56005045767be69e9d18c', 'price': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1784021818325}
+2026-07-14 15:18:00,104 | INFO | Connecting to Binance Futures Testnet...
+2026-07-14 15:18:00,421 | INFO | Client created successfully.
+2026-07-14 15:18:00,421 | INFO | Sending MARKET order | Symbol=BTCUSDT Side=SELL Qty=0.001
+2026-07-14 15:18:00,827 | INFO | OrderID=21643315724 Status=NEW ExecutedQty=0.0000
